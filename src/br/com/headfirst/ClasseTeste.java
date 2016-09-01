@@ -9,7 +9,7 @@ public class ClasseTeste {
 		
 		ExtendendoFinal ef = new ExtendendoFinal();
 		
-		ef.setNome("Fabio Biasi Mello Rubim");
+		ef.setNome("Fabio Biasi Mello Rubim!");
 		System.out.println(ef.getNome());
 	}
 }
